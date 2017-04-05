@@ -7,7 +7,7 @@ use Mix.Config
 # watchers to your application. For example, we use it
 # with brunch.io to recompile .js and .css sources.
 config :hello_phoenix, HelloPhoenix.Endpoint,
-  http: [port: 4000],
+  http: [port: 3001],
   debug_errors: false,
   code_reloader: false,
   check_origin: false,

@@ -1,0 +1,5 @@
+---
+app_name: hello_phoenix
+repo_url: "https://github.com/komic-awesome/hello_phoenix.git"
+app_port: 3001
+mix_env: "prod"
